@@ -30,7 +30,7 @@ I'm a frontend developer specializing in React.js and building awesome user expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-192.png" title="Remix" width="40" height="40"/>
+  <img src="https://logo.svgcdn.com/l/remix.svg" title="Remix" width="40" height="40" />
 
   <!-- Build Tools & Styling -->
   <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" height="40"/>
