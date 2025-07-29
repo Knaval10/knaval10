@@ -5,8 +5,8 @@ I'm a frontend developer specializing in React.js and building awesome user expe
 - 🔭 I’m currently working on GeoNadir (A platform designed to help people manage, process, visualize, and share drone imagery and spatial data—especially for environmental monitoring, conservation, and mapping purposes.) at Naxa.
 - 🌱 I’m learning advanced TypeScript, Node.js, Mongodb and system architecture.
 - 💬 Ask me about React, JavaScript, Next, Remix, Maplibre, and Mapbox.
-- 👨‍💻 All my projects are available on github.com/knaval10
-- 📫 How to reach me: [Email](mailto:your.nabal.khadka7@gmail.com)
+- 👨‍💻 All my projects are available at: (https://github.com/Knaval10/)
+- 📫 How to reach me: (nabal.khadka7@gmail.com)
 
 ---
 
