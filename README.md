@@ -6,7 +6,7 @@ I'm a frontend developer specializing in React.js and building awesome user expe
 - 🌱 I’m learning advanced TypeScript, Node.js, Mongodb and system architecture.
 - 💬 Ask me about React, JavaScript, Next, Remix, Maplibre, and Mapbox.
 - 👨‍💻 All my projects are available at: (https://github.com/Knaval10/)
-- 📫 How to reach me: (nabal.khadka7@gmail.com)
+- 📫 How to reach me: (mailto:nabal.khadka7@gmail.com)
 
 ---
 
