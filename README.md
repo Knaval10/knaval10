@@ -34,10 +34,10 @@ I'm a frontend developer specializing in React.js and building awesome user expe
   
   <!-- Build & Styling -->
   <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" title="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS/SASS" width="40" height="40"/>
   
-  <!-- Backend & Database -->
+  <!-- Backend & DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
@@ -45,12 +45,13 @@ I'm a frontend developer specializing in React.js and building awesome user expe
   <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/logo-dark.png" title="Supabase" width="40" height="40"/>
   
   <!-- GIS & Mapping -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mapbox_logo_2019.svg/2560px-Mapbox_logo_2019.svg.png" title="Mapbox" width="80" height="25"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mapbox.svg" title="Mapbox" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/70042002?s=200&v=4" title="MapLibre" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/39546041?s=200&v=4" title="OpenLayers" width="40" height="40"/>
   
-  <!-- UI -->
-  <img src="https://shadcn-ui.dev/favicon.ico" title="shadcn/ui" width="40" height="40"/>
+  <!-- UI & Charts -->
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="shadcn/ui" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/13381038?s=200&v=4" title="Recharts" width="40" height="40"/>
 </p>
 
 ---
