@@ -21,35 +21,35 @@ I'm a frontend developer specializing in React.js and building awesome user expe
 ## 🚀 Languages and Tools I Use:
 
 <p align="left">
-  <!-- Core Web Tech -->
+  <!-- Core Web Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   
-  <!-- React Ecosystem -->
+  <!-- Frontend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40" style="background-color:white;"/>
-  <img src="https://www.vectorlogo.zone/logos/remixicon/remixicon-icon.svg" title="Remix" width="40" height="40"/>
-  
-  <!-- Build & Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-192.png" title="Remix" width="40" height="40"/>
+
+  <!-- Build Tools & Styling -->
   <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS/SASS" width="40" height="40"/>
-  
-  <!-- Backend & DB -->
+
+  <!-- Backend & Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma ORM" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/logo-dark.png" title="Supabase" width="40" height="40"/>
-  
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" title="Supabase" width="40" height="40"/>
+
   <!-- GIS & Mapping -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mapbox.svg" title="Mapbox" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mapbox.svg" title="Mapbox" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/70042002?s=200&v=4" title="MapLibre" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/39546041?s=200&v=4" title="OpenLayers" width="40" height="40"/>
-  
-  <!-- UI & Charts -->
+
+  <!-- UI Libraries & Charts -->
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="shadcn/ui" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/13381038?s=200&v=4" title="Recharts" width="40" height="40"/>
 </p>
